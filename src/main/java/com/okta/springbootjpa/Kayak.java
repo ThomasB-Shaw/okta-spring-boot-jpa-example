@@ -30,4 +30,5 @@ public class Kayak {
     private Number value;
 
     private String makeModel;
+
 }
