@@ -16,6 +16,6 @@ public class SpringBootJpaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootJpaApplication.class, args);
+		System.out.println("All Connected Boss!");
 	}
-	
 }
